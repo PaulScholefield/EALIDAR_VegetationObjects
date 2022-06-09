@@ -12,7 +12,10 @@ Tiles based on a polygon of your choice. The data will be converted to a canopy 
 as 10 km cells (11 sq km) and then analysed on a 5 x 5 grid for canopy height and vegetation objects
 finally the data is merged back to a 100 sq km polygon and point dataset (shapefiles)
 
-If you want to get started I'm processing Dorset. Shouldn;t take too long to model the surface of the UK.
+If you want to get started I'm processing Dorset. Shouldn't take too long to model the surface of the UK.
 Thanks to the packaged developers of Foresttools and H Graham for the EA LIDAR scraper scripts.
+
+Would be great to get this code running with parallel processing, as the processing should be distributed across 
+cluster ideally.
 
 Good luck!
