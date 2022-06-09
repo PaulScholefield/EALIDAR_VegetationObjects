@@ -1,5 +1,6 @@
 # EALIDAR_VegetationObjects
-This code uses an EA LIDAR data scraper developed by  combined with Forest Tools to model the surface of the UK 100 sq km at a time
+This code uses an EA LIDAR data scraper developed by H Graham combined with the 
+ForestTools library to model the surface of the UK 100 sq km at a time
 
 You'll need an area shapefile to get started, and the 10 sq km shapefile to name the tiles. 
 You will also need to navigate the installation of Selenium, the chrome drivers, and also forest tools toolbox.
